@@ -1,6 +1,6 @@
 # CCube
 Tasks
 
-## hacker rank task
+## hacker rank profile
 
 https://www.hackerrank.com/toufeeqsk5?hr_r=1
